@@ -91,7 +91,10 @@ Many apps see 9%5 of users churn w/in the first 30 days of downloading app
 
 # Lenses AR Experiences
  * CTA w/in lenses
- * can buy and mreasure lenses w/ impression or swipe up goal-based bidding
+ * can buy and mreasure lenses w/ impression or swipe up 
+ 
+ 
+ -based bidding
  * Can also buy a national lens to maximize your one day reach
 
 # 4 basics for every ad campaign
@@ -188,7 +191,8 @@ KNOWLEDGE CHECK
   * Bring value propositions to life to build awareness and drive action
   * build lens like a funnel
        -learn about it first then take action to install/play
-  * keep triggers simple and don't ask audience to do too much
+  * keep triggers simple and don't ask 
+  to do too much
   * Test and learn to apply to next campaign
 
 
@@ -213,8 +217,62 @@ KNOWLEDGE CHECK
     
     
     
+    +++++++++++++++++++++++++++++++
+    ETERMEX CASE STUDY
+      -Goal Based Bidding for app installs
+      -lower CPI and CPSU
+      
+      
+    A THINKING APE STUDY
+       -ROAS
+       -250% improved ROAS
+       
+     
+    POCKETGEMS STUDY
+       -
+       
+ +++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+ EMEA GAMES PARTNERHIPS
+      * new product that gaming partners are leveragingto bring social into their games
+      * partner w/ developers to build HTML5 games on snapchat and equip them w/ tools like snapkit and bitmoji to bring best of snapchat into mobile, pc and console games
+    
+   # Snap Games
+      * HTML5 games live on Snapchat
+      * made for playing w/ friends asynchronously or real time
+      * can be played instantaly
+      * no additional apps required to install
+      * in 3 years over 100 million snapchatters have played games
+      * les you develop html5 games and montize on Snap platform
+      
+  # Snap Kit
+      * provides a swuite of tools to bring best parts of snapchat into experiences
+      * over 800 apps have integrated w/ snapkit
+      * nearly 150 million snapchatters engage w/ snap kit integrations every month
+      
+  # Bitmjoi for Games
+      * turn players into heroes for their games
+      * can do 2d or 3d
+      
+  # Creative Kit
+      
+      
+  can partner by reacing out to games@snap.com
     
     
+    
+ +++++++++++++++++++++++++++++++++++++
+ # QUIZ 1
+ 
+ 1.  Snapchatters are more likely than non-Snapchaters to have ___ in the last month
+ 2.  Which suite of tools would you use to bring the best parts of Snapchat stratight to your mobile game
+ 3.  Which reative resource offers built-in templates and features, including custom shaders adn advanced tracking tech to create AR experiences
+ 4.  Which creative resources lives w/in your browser and helps you build a full-screen vertical video w/ ease?
+ 5.  Which HTML5 games live on SC and are made for playing w/ friends async or in real time?
+ 6.  Snapchatters open SC __ times per day, on average *30
+ 7.  Which integration would you use so your app users could chalenge, invite and share highlights w/ their friends? *Creative Kit
+ 8.  Which integration would you choose to add social context to your leaderboards *Bitmoji
+ 9.  
     
     ++++++++++++++++++++++++++++++
     IDEA
