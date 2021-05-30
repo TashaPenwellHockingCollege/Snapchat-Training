@@ -35,6 +35,21 @@
  ## Public Profiles
   * Introduce public profiles for business
   * Public Porfiles for Business gives brands a free, perm home for all their unique Snapchat content
+  * give brands ability to have organic presence on Snapchat
+  * Connect w/ custoemrs organically by highlighting useful and engaging content, showcase existing Lens AR Experiences, and share shoppable products directly w/in Snapchat app
+  * Snapchatters can subscribe to stay up to date on content, new product launches and more
+  * Key Features
+     1.  Public Stories
+     2.  AR Lenses
+     3.  Highlights:  Public Snaps, Stories, photos, videos, etc
+     4.  Native Store:  link US-based Shopify store on profile Snapchatters can browse, try-on and buy through the "Shop feature, turning Snapchat into a new point of sale to see how 
+          https://www.snapchat.com/add/spectacles
+     5.  Discoverable via Search, @ mentions, Discover, Lens Explorer and via Snapchat Ads
+
+  * To create Public Profile
+    1.  Set up free business account
+    2.  Create a free public profiel
+    3.  Add content to public profile
 
   ## Snap Pixel
     * Install Snap Pixel to start trac actions like page views, purchases and sign ups
