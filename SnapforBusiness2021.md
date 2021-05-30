@@ -53,6 +53,15 @@
 
   ## Snap Pixel
     * Install Snap Pixel to start trac actions like page views, purchases and sign ups
+    * tool to help advertisers measure optimize and build audience for ad campaigns
+    * piece of JS code placed on website that allows tracking of actions that Snapchatters take on your website
+        ** Snapchatter adds a product to their cart, this triggers a Snap Pixel event that is reported w/in your ad account
+        ** allows attributing conversion events (i.e. add toc cart) to campaigns and re-engage Snapchatters who have visited or completed a similar action on your site
+     * track customer events across devices
+            ** when a user sees your ad on Snapchat, and later makes a purchase on desktop, the Snap Pixel tracks that event and allows you to attribute your ad to their actions
+            ** as Snap Pixel measures more conversion events, Snapchat learns more about types of people who are most likely to take similar actions which allows you to unlock conversion optimization for your campaigns
+            
+https://forbusiness.snapchat.com/blog/the-snap-pixel-how-it-works-and-how-to-install-it
     
   ## Prep Snapchat Advertisers for iOS 14 Changes
     * Snapchat's approach  to Apple's changes
